@@ -4,4 +4,4 @@ Projeto com configuração basica para começar um projeto real com react e mate
 
 ## Instruções
 
-Apague a pasta git e comece outra.
+Faça download do projeto, apague a pasta git e comece outra.
